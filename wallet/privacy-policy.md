@@ -48,4 +48,4 @@ Bunsin wallet プライバシーポリシー
 
 1. 本プライバシーポリシーに定められた内容は変更されることがあります。変更後のプライバシーポリシーについては、本アプリに掲載し、掲載された時から効力を生じるものとします。
 2. 取得した個人情報の利用目的を、変更前の利用目的と関連性を有すると合理的に認められる範囲を超えて変更する場合は、変更後の利用目的に対して本アプリ利用者の同意を得た上で変更いたします。
-3. 本プライバシーポリシーの更新履歴はGitHubで公開しておりますので、こちらの[GitHubリポジトリの変更履歴](https://github.com/datasign-inc/Bunsin/commits/main/wallet/privacy-policy.md)からご確認ください。
+3. 本プライバシーポリシーの更新履歴はGitHubで公開しておりますので、こちらの[GitHubリポジトリの変更履歴](https://github.com/DataSignInc/Bunsin/commits/main/wallet/privacy-policy.md)からご確認ください。
